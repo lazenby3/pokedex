@@ -1,0 +1,1 @@
+I started out trying to do an NBA site but couldn't find an API that had the information I wanted so I eventually swithced to Pokémon. The Pokémon API was free and pretty easy to work with which was really nice.
